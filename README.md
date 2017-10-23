@@ -1,4 +1,4 @@
-# SHA128 & SHA256 & SHA512 Encryption
+# SHA256 & SHA512 Encryption
 # Oracle PL/SQL World
 
 Run the below two Files in Respective Oracle Schema.
