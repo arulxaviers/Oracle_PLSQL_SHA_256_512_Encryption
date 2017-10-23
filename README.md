@@ -1,8 +1,6 @@
 # SHA128 & SHA256 & SHA512 Encryption
 # Oracle PL/SQL World
 
-PL/SQL Implementation for Oracle 10g,11g.
-
 Run the below two Files in Respective Oracle Schema.
 
 SQL> 1_SHA_FUCTION.SQL
